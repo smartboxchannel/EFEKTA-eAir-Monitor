@@ -12,7 +12,6 @@
 
 > ⚠️ **Important!** This device **does NOT work** with Tuya systems or the SmartLife app.
 
-![Device Overview](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-eAir-Monitor/refs/heads/main/IMAGES/device_overview.jpg)
 
 ## 📟 Display Information
 
@@ -23,8 +22,6 @@ The e-ink screen shows:
 - Current CO₂ level
 
 Plus a **48-hour CO₂ history graph**.
-
-![Display UI](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-eAir-Monitor/refs/heads/main/IMAGES/display_ui.jpg)
 
 ## ⚙️ Features
 
