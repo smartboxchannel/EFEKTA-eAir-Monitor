@@ -71,23 +71,4 @@ Plus a **48-hour CO₂ history graph**.
 | Operating temp. | 0 ~ +50 °C |
 | Power | 2× AA batteries (not included) |
 
-## 📂 Images
 
-The following images will be available in the `IMAGES/` folder:
-
-- `device_overview.jpg` – Main product photo
-- `display_ui.jpg` – Screen close-up
-
-*(Add your images to the `IMAGES/` folder and they will automatically appear above.)*
-
-## 🔧 DIY Resources
-
-- Full project details: [efektalab.com/eAir/](http://efektalab.com/eAir/)
-- Report issues or inaccuracies: @diy_devices (Telegram)
-
-## 📜 License / Disclaimer
-
-This is a **DIY device** – all information is provided as-is. No warranty for third-party integrations. Always verify CO₂ readings with professional equipment if needed.
-
----
-*Made with 🌬️ for cleaner indoor air.*
